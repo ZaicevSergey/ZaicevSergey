@@ -1,6 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I'm Sergey.
 
 ### Connect with me:
+
+
+[<img align="left" alt="VladKalachev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="VladKalachev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
+
+<br />
+
 <!--
 **ZaicevSergey/ZaicevSergey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[instagram]: https://www.instagram.com/sszaicev/
+[vk]: https://vk.com/sszaicev
